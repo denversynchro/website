@@ -692,6 +692,7 @@ section {
 }
 
 .tryouts .content .btn-learn-more {
+  margin: 6px;
   background: #2487ce;
   color: #fff;
   border-radius: 5px;
