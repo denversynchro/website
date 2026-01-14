@@ -831,6 +831,25 @@ section {
   color: #2487ce;
 }
 
+.cta .btn-cta {
+  margin: 6px;
+  background: #2487ce;
+  color: #fff;
+  border-radius: 5px;
+  padding: 10px 30px 11px 30px;
+  white-space: nowrap;
+  transition: 0.3s;
+  font-size: 14px;
+  font-weight: 600;
+  display: inline-block;
+}
+
+.cta .btn-cta:hover {
+  background: #0e446b;
+  color: #fff;
+  text-decoration: none;
+}
+
 .cta a {
   color: #fff;
   text-decoration: underline;
